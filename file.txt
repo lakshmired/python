@@ -1,0 +1,6 @@
+file=open("ark.txt","rt")
+content=f.read()
+read(content)
+file.close()
+
+
